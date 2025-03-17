@@ -3,7 +3,7 @@
 A simple AutoHotkey v2 script that creates a graphical user interface (GUI) for creating custom keyboard shortcuts that insert specified text.
 
 ## How to Use
-run the autohotkey v2 script "scripter.ahk"
+run "scripter.ahk"
 
 ![image](https://github.com/user-attachments/assets/6052855e-62af-4aef-bc40-693e47685dd6)
 
