@@ -16,7 +16,7 @@ it creates a file "remap.ahk", or if it already exists: appends your shortcuts a
 
 ![image](https://github.com/user-attachments/assets/83cfda20-8a33-4eee-bc88-4d54fddd474d)
 
-want autostart with windows? put a shortcut to this file into your windows startup folder ( hit "Win + R" and enter "shell:startup" to find it)
+💡want autostart with windows? put a shortcut to this file into your windows startup folder ( hit "Win + R" and enter "shell:startup" to find it)
 
 to have the GUI window appear again: run the "scripter.ahk" 
 
